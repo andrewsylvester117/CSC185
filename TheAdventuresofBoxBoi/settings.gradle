@@ -1,0 +1,1 @@
+include ':gamesupport', ':app', ':base', ':instantapp'
